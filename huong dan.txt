@@ -1,0 +1,3 @@
+B1: Giải nén file shadowify.zip
+B2: Copy toàn bộ thư mục shadowify vừa giải nén vào đường dẫn
+C:\Program Files (x86)\Common Files\Adobe\CEP\extensions
